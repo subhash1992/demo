@@ -1,3 +1,5 @@
  #first file
  #second line file
 third line
+testing conflict
+changes made in master
