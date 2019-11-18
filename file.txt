@@ -1,5 +1,6 @@
  #first file
  #second line file
 third line
+<<<<<<< HEAD
 testing conflict
 changes made in master
